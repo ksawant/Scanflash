@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E411A8DA-DC1D-4E22-805A-D0407FD54687</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Flashcard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>690A04BB519CCEA3259C8BB6F7841889AA23FFAB</key>
+		<string>https://github.com/ksawant/Scanflash.git</string>
+		<key>B06EF5EA3A99EE54524BD0BAA1661F28E834902C</key>
+		<string>github.com:twgeolo/Flashcard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Flashcard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>690A04BB519CCEA3259C8BB6F7841889AA23FFAB</key>
+		<string>../..</string>
+		<key>B06EF5EA3A99EE54524BD0BAA1661F28E834902C</key>
+		<string>../../../Flashcard</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ksawant/Scanflash.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>690A04BB519CCEA3259C8BB6F7841889AA23FFAB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B06EF5EA3A99EE54524BD0BAA1661F28E834902C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Flashcard</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>690A04BB519CCEA3259C8BB6F7841889AA23FFAB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Scanflash</string>
+		</dict>
+	</array>
+</dict>
+</plist>
